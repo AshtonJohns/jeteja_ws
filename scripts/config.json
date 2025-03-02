@@ -7,7 +7,7 @@
     "steering_range": 350000,
     "steering_dir": 1,
     "throttle_joy_axis": 1, 
-    "throttle_limit": 0.040,
+    "throttle_limit": 0.045,
     "throttle_stall": 1500000,
     "throttle_fwd_range": 1580000,
     "throttle_rev_range": 1400000,
